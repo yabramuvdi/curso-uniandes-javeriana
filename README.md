@@ -3,4 +3,4 @@ Curso para investigadores de la Universidad de los Andes y la Pontificia Univers
 
 ## Material del curso
 - Diapositivas
-- Notebook Google Colab
+- [Notebook Google Colab](./colab_gemini.ipynb)
